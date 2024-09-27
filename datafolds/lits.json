@@ -1,0 +1,335 @@
+{
+    "description": "LiTS",
+    "labels": {
+        "0": "background",
+        "1": "liver",
+        "2": "tumor"
+    },
+    "licence": "yt",
+    "modality": {
+        "0": "CT"
+    },
+    "name": "lits",
+    "numTraining": 101,
+    "numValid": 22,
+    "reference": "xxxx",
+    "release": "2022/08/27",
+    "tensorImageSize": "3D",
+    "training": [
+        
+
+
+
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-46.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-46.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-98.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-98.nii"
+        },
+
+
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-86.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-86.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-94.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-94.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-3.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-3.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-67.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-67.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-122.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-122.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-79.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-79.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-75.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-75.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-16.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-16.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-130.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-130.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-118.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-118.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-43.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-43.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-106.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-106.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-20.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-20.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-114.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-114.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-32.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-32.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-7.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-7.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-90.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-90.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-82.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-82.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-55.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-55.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-28.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-28.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-110.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-110.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-36.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-36.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-47.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-47.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-59.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-59.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-102.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-102.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-24.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-24.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-71.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-71.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-12.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-12.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-63.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-63.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-126.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-126.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-26.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-26.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-100.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-100.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-45.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-45.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-38.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-38.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-34.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-34.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-112.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-112.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-57.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-57.nii"
+        },
+        {
+        "image": "/mnt/data/jhf/lits-challenge/train/volume-124.nii",
+        "label": "/mnt/data/jhf/lits-challenge/lable/volume-124.nii"
+        },
+        {
+
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-14.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-14.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-69.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-69.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-77.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-77.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-120.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-120.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-18.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-18.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-65.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-65.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-30.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-30.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-116.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-116.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-108.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-108.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-53.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-53.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-22.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-22.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-104.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-104.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-41.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-41.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-96.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-96.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-88.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-88.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-84.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-84.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-1.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-1.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-72.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-72.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-11.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-11.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-39.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-39.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-44.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-44.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-27.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-27.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-101.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-101.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-56.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-56.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-35.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-35.nii"
+        },
+        {
+            "image": "/mnt/data/jhf/lits-challenge/train/volume-113.nii",
+            "label": "/mnt/data/jhf/lits-challenge/lable/volume-113.nii"
+        }
+    ],
+    "validation": [
+        {
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-66.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-66.nii"
+},
+
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-95.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-95.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-13.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-13.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-70.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-70.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-127.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-127.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-62.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-62.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-111.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-111.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-19.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-19.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-121.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-121.nii"
+},
+{
+    "image": "/mnt/data/jhf/lits-challenge/train/volume-107.nii",
+    "label": "/mnt/data/jhf/lits-challenge/lable/volume-107.nii"
+}
+
+    ]
+}
